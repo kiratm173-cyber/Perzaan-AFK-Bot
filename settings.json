@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PLUGINSMP-gYov.aternos.me
-    ",
+    "ip": "PLUGINSMP-gYov.aternos.me",
+  }, 
     "port": 36022,
     "version": "1.21.1"
   },

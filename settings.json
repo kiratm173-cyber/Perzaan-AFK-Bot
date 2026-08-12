@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PLUGINSMP-gYov.aternos.me",
+    "ip": "PluginSmp_S3.aternos.me",
   }, 
-    "port": 36022,
+    "port": 42591,
     "version": "1.21.1"
   },
   "position": {
